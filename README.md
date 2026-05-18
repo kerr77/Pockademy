@@ -6,11 +6,37 @@
 
 ---
 
+## 💭 **The Story Behind Pockademy**
+
+### **Why I Built This**
+
+Two weeks ago, I was trying to learn QA testing to apply for my first tech job. I found courses I wanted to take, but they were too expensive. In that moment, a thought crossed my mind:
+
+> *"If I can't afford to learn, why not build it myself?"*
+
+So I did. I took a free weekend, designed a learning platform blueprint, and asked AI to help build it.
+
+But as I kept developing, something shifted. I started thinking about the millions of people like me—talented people trapped in difficult situations, unable to afford quality education. What if they could just... grab knowledge with their own hands? What would their lives look like?
+
+That thought became fuel. The project grew bigger. More features. Better design. More ambition.
+
+Today, Pockademy exists for everyone who:
+- ✅ Can't afford expensive courses
+- ✅ Wants to learn but doesn't know where to start
+- ✅ Has dreams but not resources
+- ✅ Believes they deserve a chance
+
+**This isn't just an app. It's a middle finger to gatekeeping education.** 🚀
+
+---
+
 ## 📱 English
 
 ### What is Pockademy?
 
-Pockademy is an **AI-powered personalized learning platform** that generates custom curricula, homework, quizzes, and mentoring for any subject. It combines multiple AI providers (Gemini, OpenAI, Anthropic, Ollama) with a **gamification engine** to make learning engaging and trackable.
+Pockademy is an **AI-powered personalized learning platform** that generates custom curricula, homework, quizzes, and mentoring for any subject. It combines multiple AI providers (Gemini, OpenAI, Anthropic, and Ollama) to deliver a university-grade education experience that fits in your pocket.
+
+Built to be **accessible everywhere**—on any device, with or without fast internet, completely free to start.
 
 ### ✨ Key Features
 
@@ -155,15 +181,41 @@ For issues, feature requests, or questions, please open a [GitHub Issue](https:/
 
 ## 🇹🇭 ภาษาไทย
 
+### 💭 **เรื่องราวเบื้องหลัง Pockademy**
+
+### **ทำไมผมสร้างมัน**
+
+สองอาทิตย์ที่แล้ว ผมพยายามเรียนรู้เป็น QA Tester เพื่อสมัครงานเทคแรกของผม ผมพบหลักสูตรที่ต้องการเรียน แต่มันแพงเกินไป ในขณะนั้น ความคิดหนึ่งเด้งขึ้นมาในหัว:
+
+> *"ถ้าผมจ่ายไม่ได้ ก็สร้างเองสิ?"*
+
+ผมก็ทำ สิ้นสุดวันหนึ่ง ออกแบบบ้านเรียน ให้ AI ช่วยสร้าง
+
+แต่ตอนที่ผมทำไปเรื่อย ๆ บางอย่างเปลี่ยนไป ผมเริ่มนึกถึงคนอื่น ๆ มากมาย—คนเก่ง ที่ติดอยู่ในสถานการณ์ยากๆ ไม่สามารถจ่ายเรียนได้ แล้วถ้าพวกเค้าสามารถคว้ามันด้วยมือตัวเองล่ะ ชีวิตพวกเค้าจะเปลี่ยนไปแค่ไหน
+
+ความคิดนั้นเป็นเชื้อเพลิง โปรเจคโตขึ้น ฟีเจอร์เยอะขึ้น ความทะเยอทะยานเพิ่มขึ้น
+
+วันนี้ Pockademy มีอยู่สำหรับคนทุกคนที่:
+- ✅ จ่ายหลักสูตรแพงไม่ได้
+- ✅ ต้องการเรียน แต่ไม่รู้เริ่มจากไหน
+- ✅ มีฝัน แต่��ม่มี resources
+- ✅ เชื่อว่าตัวเองสมควร
+
+**นี่ไม่ใช่แค่แอป มันคือการเอาเงินหนึ่งให้การศึกษาที่เป็นการค้นหา** 🚀
+
+---
+
 ### Pockademy คืออะไร?
 
-Pockademy เป็น **แพลตฟอร์มการเรียนรู้ส่วนบุคคลที่ขับเคลื่อนโดย AI** ซึ่งสร้างหลักสูตร การบ้าน แบบทดสอบ และการสอนส่วนตัวสำหรับวิชาใดๆ ได้ โดยรวมผู้ให้บริการ AI หลายราย (Gemini, OpenAI, Anthropic, Ollama) เข้ากับ **ระบบแกมิฟิเคชัน** เพื่อให้การเรียนรู้มีความสนุกและติดตามได้
+Pockademy เป็น **แพลตฟอร์มการเรียนรู้ส่วนบุคคลที่ขับเคลื่อนโดย AI** ซึ่งสร้างหลักสูตร การบ้าน แบบทดสอบ และการสอนส่วนบุคคลสำหรับวิชาใด ๆ โดยรวมผู้ให้บริการ AI หลายราย (Gemini, OpenAI, Anthropic และ Ollama) เพื่อให้ประสบการณ์การเรียนในระดับมหาวิทยาลัยที่พอดีกับกระเป๋าของคุณ
+
+สร้างมาให้เข้าถึงได้ทุกที่—บนอุปกรณ์ใด ๆ ไม่ว่าจะมีอินเทอร์เน็ตเร็วหรือไม่ก็ตาม ฟรีทั้งหมด
 
 ### ✨ คุณสมบัติหลัก
 
 - 🤖 **สร้างหลักสูตร AI อัตโนมัติ** — สร้างแผนเรียน 30 วันที่ปรับแต่งตามระดับของคุณ
 - 🔄 **รองรับ AI หลายผู้ให้บริการ** — ทำงานได้กับ Google Gemini, OpenAI, Anthropic และ Ollama
-- 📚 **เอนจิน Learning ตามลำดับ** — บทเรียนปลดล็อกแบบค่อยเป็นค่อยไป ต้องจบบทเรียนที่จำเป็นก่อนจึงจะสามารถเลื่อนไปได้
+- 📚 **เอนจิน Learning ตามลำดับ** — บทเรียนปลดล็อกแบบค่อยเป็นค่อยไป ต้องจบบทเรียนก่อนหน้าก่อน
 - 🎮 **ระบบแกมิฟิเคชัน**
   - 📊 คะแนน EXP สำหรับกิจกรรม (บทเรียน การบ้าน แบบทดสอบ)
   - 📈 ระบบ Leveling พร้อมรางวัลเหริญ
@@ -172,9 +224,9 @@ Pockademy เป็น **แพลตฟอร์มการเรียนร�
 - 💬 **แอดไวเซอร์ AI** — สี่สไตล์ส่วนบุคคล (Socratic, Motivator, Strict, Friendly)
 - ✍️ **เอนจิน Homework และ Quiz** — การประเมินโดย AI พร้อมข้อมูลย้อนกลับทันที
 - 📊 **ติดตามความก้าวหน้า** — สถานะการจบวันต่อวัน คะแนน และเมตริกการประเมิน
-- 🔒 **ประตูกิจกรรม** — กำหนดเวลาสิ้นสุดการบ้านและข้อกำหนดกิจกรรมเพื่อป้องกันการรีบเร่ง
+- 🔒 **ประตูกิจกรรม** — กำหนดเวลาสิ้นสุดการบ้านและข้อกำหนดกิจกรรมเพื่อป้องกันการวิ่งห้ี
 - 🌐 **RAG Light** — ฉีดข้อมูลจาก URL สำหรับสถานการณ์การเรียนรู้ในโลกจริง
-- 💾 **ประวัติการสนทนาถาวร** — กลับมาที่การสนทนาต่อก่อนหน้านี้
+- 💾 **ประวัติการสนทนาถาวร** — กลับมาที่การสนทนาต่อจากที่แล้ว
 - 📝 **ระบบแคชเก็บ** — ปรับปรุงประสิทธิภาพและลดการเรียก API
 
 ### 🚀 เริ่มต้นใช้งาน
